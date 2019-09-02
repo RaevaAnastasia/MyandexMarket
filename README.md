@@ -1,4 +1,4 @@
-Тестовый проект на флоатах по заданию "Мяндекс.Муррркет" как слушатель курса "Тонкости верстки" https://www.coursera.org/learn/tonkosti-verstki/home/info
+Тестовый проект на флоатах по заданию ["Мяндекс.Муррркет"](https://raevaanastasia.github.io/MyandexMarket/) как слушатель курса ["Тонкости верстки" на Coursera](https://www.coursera.org/learn/tonkosti-verstki/home/info)
 
 ![](https://github.com/RaevaAnastasia/MyandexMarket/blob/master/page%20screenshot.png)
 
